@@ -1,1 +1,1 @@
-# fyc-nginx-auth
+# fyc-nginx
